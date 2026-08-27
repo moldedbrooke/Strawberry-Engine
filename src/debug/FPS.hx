@@ -36,6 +36,8 @@ class FPS extends TextField
 		defaultTextFormat = new TextFormat("_sans", 14, color);
 		autoSize = LEFT;
 		multiline = true;
+		background = true;
+        backgroundColor = 0xC7000000;
 		text = "FPS: ";
 
 		times = [];
