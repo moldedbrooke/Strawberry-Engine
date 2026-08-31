@@ -1,3 +1,3 @@
 # Friday Night Funkin': Strawberry Engine
 
-An engine based off *Psych Engine 0.7.3* with my own improvements. This engine was primarily to help myself get used to the haxe framework.
+An engine that's based on [*Psych Engine*](https://github.com/ShadowMario/FNF-PsychEngine) with my own improvements. This engine is made to help myself get used to the haxe framework.
